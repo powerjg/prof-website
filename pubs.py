@@ -1,7 +1,4 @@
 
-import sys
-sys.path.append('..')
-
 from cvcreator import *
 
 from datetime import date
