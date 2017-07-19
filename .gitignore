@@ -1,0 +1,11 @@
+# Python virtualenv
+venv/
+
+# Python compiled files
+*.pyc
+
+# "Sub" repos
+cvcreator/
+
+# generated output
+output/
